@@ -55,7 +55,8 @@ function playRound(playerSelection, computerSelection) {
     }
 }
 
-//Play specified number of rounds. First get computer and player selections and then play round. Record results to console.
+//Play specified number of rounds. First get computer and player selections and
+//then play round. Record results to console.
 
 function game(rounds) {
     for (let index = 0; index < rounds; index++) {
