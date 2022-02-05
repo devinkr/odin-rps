@@ -1,0 +1,30 @@
+body {
+    margin: 0 20%;
+    padding:0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+#container {
+    text-align: left;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+#score {
+}
+
+#game {
+    text-align: center;
+}
+
+#round {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+#results {
+    margin-top: 30px;
+}
